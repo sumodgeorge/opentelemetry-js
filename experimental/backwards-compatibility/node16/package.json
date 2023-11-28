@@ -9,7 +9,7 @@
     "peer-api-check": "node ../../../scripts/peer-api-check.js"
   },
   "dependencies": {
-    "@opentelemetry/sdk-node": "0.40.0",
+    "@opentelemetry/sdk-node": "0.41.2",
     "@opentelemetry/sdk-trace-base": "1.14.0"
   },
   "devDependencies": {
